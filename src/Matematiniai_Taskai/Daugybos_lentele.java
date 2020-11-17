@@ -1,3 +1,4 @@
+//bandymas paeditinti per brancha ir commitinti i master
 package Matematiniai_Taskai;
 
 public class Daugybos_lentele {
